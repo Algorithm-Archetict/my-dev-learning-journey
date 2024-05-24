@@ -1,2 +1,13 @@
-# Algorithm-Archetict_Learning_Journey
-This repository chronicles my educational odyssey in software development, starting with the foundational CS50T course from Harvard Business School, followed by an extensive and rigorous track designed to equip me with the skills necessary for a successful career in tech. Here, you'll find insights into my learning process
+# My Learning Journey
+
+Welcome to my educational repository! Here, I've documented the two tracks of courses I've taken to develop my skills as a software developer.
+
+## track 1: CS50t
+- Course 01: 
+- Course 02: 
+
+## Path 2: Programming Advices
+- Course 1: Fundamentals of programming level 1
+- Course 2: 
+
+Each course directory contains a `README.md` with more information about what I've learned and any projects I've completed.
