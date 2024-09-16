@@ -36,9 +36,9 @@ Welcome to my personal software development journey! This repository is a journa
 
 Here are some of the key projects I’ve worked on:
 
-- small *Bank System* (Functional Programming) Console App using C++
-- *ATM System* (Functional Programming)
-- *Bank System* (OOP) Console App using C++ . that helped me to know the differences, pros and cons of each paradigm of both of them.
+- small file-based *Bank System* (Functional Programming) Console App using C++
+- *ATM System* (Functional Programming) connected to the bank system
+- *Bank System* (OOP) Console App using C++ with extended functionalities. that helped me to know the differences, pros and cons of each paradigm of both of them.
 - *Desktop Applications with .NET*
 - *Web Applications with ASP.NET*
 - *SQL Relational Schemas*
