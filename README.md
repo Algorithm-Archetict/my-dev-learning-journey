@@ -49,7 +49,7 @@ Here are some of the key projects I’ve worked on:
 Throughout my journey, I’ve utilized a variety of resources that have significantly contributed to my learning:
 
 - *Books*: "Clean Code" by Robert C. Martin Explained by CodeBuster Youtube Channel
-- *Online Courses*: Programming Advices
+- *Online Courses*: Programming Advices, Free Code Camp
 - *Community Forums*: Programming Advices, Stack Overflow
 
 ## 🌱 What’s Next?
