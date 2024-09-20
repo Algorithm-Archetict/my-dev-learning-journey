@@ -17,8 +17,8 @@ Welcome to my personal software development journey! This repository is a journa
    - Focused on learning the basics of programming with languages like *C++* and *C#*.
    - Worked on numerous problem-solving exercises to strengthen logical thinking and coding skills.
 
-### 2. *Object-Oriented Programming (OOP) and Functional Programming*
-   - Developed a *Bank System* project using functional programming and then rewrote it using OOP principles to understand the differences and benefits of each approach.
+### 2. *Object-Oriented Programming (OOP) and Procedural Programming*
+   - Developed a *Bank System* project using Procedural programming and then rewrote it using OOP principles and this made me understand the differences and benefits of each approach.
 
 ### 3. *Web Development with .NET*
    - Created several desktop applications using *.NET Framework* to understand the fundamentals of building robust, scalable software.
